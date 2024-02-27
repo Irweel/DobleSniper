@@ -1,0 +1,2 @@
+# DobleSniper
+Simple bruteforce script. 
